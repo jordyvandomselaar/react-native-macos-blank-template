@@ -84,15 +84,19 @@ function App(): React.JSX.Element {
       />
       <ScrollView
         style={backgroundStyle}>
+{% raw %}
         <View style={{paddingRight: safePadding}}>
+{% endraw %}
           <Header/>
         </View>
+{% raw %}
         <View
           style={{
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
             paddingHorizontal: safePadding,
             paddingBottom: safePadding,
           }}>
+{% endraw %}
           <Section title="✨ NativeWind Demo">
             <View className="flex-row justify-between items-center mb-4">
               <View className="bg-green-500 p-3 rounded-lg">
