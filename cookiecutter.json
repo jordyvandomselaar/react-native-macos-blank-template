@@ -1,0 +1,12 @@
+{
+    "project_name": "MyReactNativeApp",
+    "display_name": "My React Native App",
+    "package_id": "com.company.myreactnativeapp",
+    "version": "1.0.0",
+    "author_name": "Your Name",
+    "author_email": "your.email@example.com",
+    "description": "A new React Native multi-platform application",
+    "react_native_version": "0.78.2",
+    "node_version": ">=18.0.0",
+    "license": ["MIT", "Apache-2.0", "BSD-3-Clause", "GPL-3.0", "None"]
+}

@@ -1,0 +1,3 @@
+<resources>
+    <string name="app_name">{{cookiecutter.display_name}}</string>
+</resources>

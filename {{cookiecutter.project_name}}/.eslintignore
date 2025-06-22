@@ -1,0 +1,3 @@
+*.config.js
+global.css
+nativewind-env.d.ts
